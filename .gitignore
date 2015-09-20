@@ -5,9 +5,9 @@ strings_*.rb
 *.zip
 resume.rb
 
-Gemfile.lock
+#Gemfile.lock
 doc/
 pkg/
 vendor/cache/*.gem
-coverage/
+#coverage/
 tmp/
